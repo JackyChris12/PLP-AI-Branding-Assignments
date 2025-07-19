@@ -1,45 +1,61 @@
-# 🚀 AI Branding Assignment – Power Learn Project
+# 🤖 AI Branding Assignment – Power Learn Project
 
-Welcome to my AI-powered branding submission. This project is divided into 3 phases where I applied AI tools like ChatGPT and Canva to create a futuristic brand.
+This repository contains my complete submission for the **AI Branding Assignment** as part of the Power Learn Project. The project is divided into three phases that demonstrate the use of AI tools like ChatGPT and Canva to build a modern digital branding agency.
 
 ---
 
 ## 🔹 Phase 1: Branding & Business Setup
 
-- **Business Name**: NeuroBrand  
-- **Tagline**: Intelligent Branding. Instant Impact.  
-- **Brand Mission**:  
-  To empower startups with smart, adaptive brand identities using the speed, precision, and creativity of AI.
+📁 Folder: `Phase_1-Branding-Business-Setup`
 
-- 🔗 [Brand Story (ChatGPT)](Phase-1/brand-story.md)
-- 🖼️ [Logo (Canva Image)](Phase-1/logo.png)
+- 🧠 **Business Name, Tagline & Mission**  
+  📄 [`business-name-tagline-mission—..`](Phase_1-Branding-Business-Setup/business-name-tagline-mission—..)
+
+- 📜 **Brand Story (ChatGPT)**  
+  📄 [`brand-story.md`](Phase_1-Branding-Business-Setup/brand-story.md)
+
+- 🖼️ **AI-Generated Logo (Canva)**  
+  📷 [`logo.png`](Phase_1-Branding-Business-Setup/logo.png)
 
 ---
 
-## 🔹 Phase 2: AI Design & Marketing
+## 🔹 Phase 2: AI-Generated Design & Marketing Content
 
-- 📢 [Social Media Post Ideas (ChatGPT)](Phase-2/social-media-posts.md)
-- 📰 [AI Blog Post](Phase-2/ai-blog.md)
-- 🖼️ [Website Mockups & Graphics (Screenshots)](Phase-2/mockups/)
+📁 Folder: `Phase_2-Al-Generated-Design-M`
+
+- 📱 **Social Media Post Ideas (ChatGPT)**  
+  📄 [`Social-media-post.md`](Phase_2-Al-Generated-Design-M/Social-media-post.md)
+
+- 🖼️ **AI Social Media Graphic (Canva)**  
+  📷 [`social-media-post.png`](Phase_2-Al-Generated-Design-M/social-media-post.png)
+
+- 📰 **Blog Post: Why Use AI Branding**  
+  📄 [`Blog Ti`](Phase_2-Al-Generated-Design-M/Blog%20Ti)
 
 ---
 
 ## 🔹 Phase 3: Client Outreach & Monetization
 
-- 💼 [Sales Strategies & Pitch Email](Phase-3/sales-pitch.md)
-- 🧠 Canva AI Presentation:  
-  🔗 [Click here to view the AI-powered branding presentation on Canva](https://www.canva.com/design/DAGtobWk2LI/axxZ9qdjthJbKpxWrfEFtw/edit?utm_content=DAGtobWk2LI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+📁 Folder: `Phase_3-Client-Outreach-Moneti`
 
+- 📩 **Client Outreach Email (ChatGPT)**  
+  📄 [`client-outreach-email.txt`](Phase_3-Client-Outreach-Moneti/client-outreach-email.txt)
 
+- 🧠 **Pitch Deck Outline**  
+  📄 [`pitch-deck-outline.md`](Phase_3-Client-Outreach-Moneti/pitch-deck-outline.md)
 
----
-
-## ✅ Tools Used
-
-- **ChatGPT** – for brand story, social media content, and pitch
-- **Canva AI (Magic Media)** – for logo, visuals, and presentation
+- 📊 **AI-Generated Canva Presentation**  
+  🔗 [View Canva AI Pitch Deck](https://www.canva.com/design/DAFzEThP8do/X_6ZuZIvYXaAnr2j1wzPXA/view?utm_content=DAFzEThP8do&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ---
 
-## 📁 Folder Structure
+## 🛠️ Tools Used
 
+- **ChatGPT** – for generating business content, blog, social media posts, and outreach emails
+- **Canva AI (Magic Media)** – for logo design, social content, and client presentation
+
+---
+
+## 👩🏽 Created by:
+**Jackline Kibiwot**  
+Power Learn Project – AI Branding Assignment
