@@ -9,7 +9,7 @@ This repository contains my complete submission for the **AI Branding Assignment
 📁 Folder: `Phase_1-Branding-Business-Setup`
 
 - 🧠 **Business Name, Tagline & Mission**  
-  📄 [`business-name-tagline-mission—..`](Phase_1-Branding-Business-Setup/business-name-tagline-mission—..)
+  📄 [`business-name-tagline-mission.md..`](Phase_1-Branding-Business-Setup/business-name-tagline-mission—..)
 
 - 📜 **Brand Story (ChatGPT)**  
   📄 [`brand-story.md`](Phase_1-Branding-Business-Setup/brand-story.md)
@@ -17,7 +17,7 @@ This repository contains my complete submission for the **AI Branding Assignment
 - 🖼️ **AI-Generated Logo (Canva)**  
   📷 [`logo.png`](Phase_1-Branding-Business-Setup/logo.png)
 
----
+---S
 
 ## 🔹 Phase 2: AI-Generated Design & Marketing Content
 
