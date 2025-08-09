@@ -40,9 +40,9 @@ This repository contains assignments completed for the Power Learn Project (PLP)
 ## 🛠️ Tools Used
 
 - [ChatGPT](https://chat.openai.com/)
-- [Canva AI](https://www.canva.com/magic-media/) *(if available)*
+- [Canva AI](https://www.canva.com/magic-media/) 
 - Markdown for documentation and GitHub formatting
 
 ---
 
-> Created by **Jackline Kibiwott** for the **Power Learn Project** — AI Branding Module ✨
+> Created by **Jackline Kibiwot** for the **Power Learn Project** — AI Branding Module ✨
